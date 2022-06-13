@@ -41,4 +41,3 @@ newUsuario.addBook({nombre: 'libro2', autor: 'autor2'});
 
 console.log(newUsuario.getBooksNames());
 console.log(newUsuario.getFullName());
-console.log(newUsuario);
